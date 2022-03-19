@@ -1,2 +1,1 @@
-set pat=%cd%
-echo %pat%
+hg/
